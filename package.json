@@ -8,7 +8,7 @@
   },
   "kyt": {
     "version": "0.0.1",
-    "files": ["tsconfig.json", "tslint.json", "typings.d.ts", "typings.json"],
+    "files": ["tsconfig.json", "tslint.json", "typings.d.ts", "typings.json", ".gitignore"],
     "scripts": ["typings", "lint"]
   },
   "dependencies": {
