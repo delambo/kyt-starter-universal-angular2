@@ -1,6 +1,6 @@
 # Universal Angular2 Starter-kyt
 
-This is a Starter-kyt for kyt projects. This is a work in progress - help me out: [TODO](#todo).
+This is a Starter-kyt for [kyt](https://github.com/NYTimes/kyt) projects. This is a work in progress - help me out: [TODO](#todo).
 
 ## Installation
 
